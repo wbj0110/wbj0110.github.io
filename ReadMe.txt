@@ -1,1 +1,1 @@
-<img src="images/little_soledede.jpg"/>
+<a href="http://edu.51cto.com/lecturer/user_id-7516873.html"><img src="/wbj0110/recomend-spark-solr-scala-rest/raw/master/image/soledede.png" alt="ÍÆ¼öÏµÍ³" style="max-width:100%;"></a>
