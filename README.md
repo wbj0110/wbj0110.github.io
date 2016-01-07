@@ -1,1 +1,1 @@
-<a href="http://edu.51cto.com/lecturer/user_id-7516873.html"><img src="/wbj0110/recomend-spark-solr-scala-rest/raw/master/image/soledede.png" alt="推荐系统" style="max-width:100%;"></a>
+<a href="http://edu.51cto.com/lecturer/user_id-7516873.html"><img src="images/little_soledede.jpg" alt="推荐系统" style="max-width:100%;"></a>
